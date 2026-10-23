@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="title desc">
+  <title id="title">End Platform Preserver</title>
+  <desc id="desc">Keep your corner of the End. A pixel-inspired obsidian arrival platform with a chest and green plants floats beneath a purple End sky.</desc>
+  <defs>
+    <linearGradient id="sky" x2="1" y2="1">
+      <stop stop-color="#161323"/>
+      <stop offset=".6" stop-color="#272039"/>
+      <stop offset="1" stop-color="#39304c"/>
+    </linearGradient>
+    <linearGradient id="land" x2="0" y2="1">
+      <stop stop-color="#d8dfac"/>
+      <stop offset="1" stop-color="#9baf80"/>
+    </linearGradient>
+    <pattern id="obsidian" width="36" height="24" patternUnits="userSpaceOnUse">
+      <rect width="36" height="24" fill="#342944"/>
+      <path d="M0 0H36V24H0Z" fill="none" stroke="#181723" stroke-width="2"/>
+      <path d="M4 5H17V9H4ZM23 15H32V20H23Z" fill="#574367"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="400" rx="20" fill="url(#sky)"/>
+  <g fill="#b8a0d7" opacity=".5">
+    <path d="M60 52h4v4h-4zM284 40h3v3h-3zM547 66h4v4h-4zM713 39h3v3h-3zM1174 58h4v4h-4zM1228 219h3v3h-3zM648 324h3v3h-3zM734 232h4v4h-4zM1117 340h4v4h-4zM487 351h3v3h-3z"/>
+    <path d="M1127 105h4v14h-4zM1122 110h14v4h-14zM654 126h4v14h-4zM649 131h14v4h-14z"/>
+  </g>
+  <g opacity=".24" fill="#0f101b">
+    <path d="M758 253V114l31-12 30 12v139zM1133 263V131l27-11 27 11v132z"/>
+    <path d="M783 102V84h12v18zM1154 120V104h12v16z"/>
+  </g>
+  <rect x="64" y="65" width="199" height="28" rx="4" fill="#d1dfab"/>
+  <text x="78" y="84" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#242b25">A SMALL FABRIC MOD</text>
+  <g font-family="Segoe UI,Arial,sans-serif" fill="#f7f3fc" font-weight="800" font-size="55" letter-spacing="-1.5">
+    <text x="61" y="165">KEEP YOUR CORNER</text>
+    <text x="61" y="227">OF THE <tspan fill="#d0b3ef">END.</tspan></text>
+  </g>
+  <text x="65" y="274" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#c4bacf">Your builds stay. The obsidian floor regenerates.</text>
+  <path d="M65 314h38" stroke="#c5dba3" stroke-width="4"/>
+  <text x="116" y="319" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2" fill="#c5dba3">END PLATFORM PRESERVER</text>
+  <g stroke-linejoin="round">
+    <path d="M835 254l166-76 166 76-166 88z" fill="#14121f" opacity=".45" transform="translate(0 19)"/>
+    <path d="M817 240l178-81 178 81-178 89z" fill="url(#obsidian)" stroke="#75608a" stroke-width="2"/>
+    <path d="M817 240l178 89v27l-178-89z" fill="#211d30"/>
+    <path d="M995 329l178-89v27l-178 89z" fill="#161723"/>
+    <g fill="none" stroke="#8b71a0" stroke-width="1" opacity=".6">
+      <path d="M853 224l178 87M889 207l178 86M924 191l178 85M960 175l178 83"/>
+      <path d="M853 258l178-83M888 276l178-85M924 294l178-87M960 312l178-88"/>
+    </g>
+    <path d="M911 216l45-21 48 23-46 23z" fill="#dbac60" stroke="#171822" stroke-width="3"/>
+    <path d="M911 216v45l47 24v-44z" fill="#986237" stroke="#171822" stroke-width="3"/>
+    <path d="M958 241l46-23v45l-46 22z" fill="#b47c42" stroke="#171822" stroke-width="3"/>
+    <path d="M912 232l46 24 46-23" fill="none" stroke="#3b2d2c" stroke-width="5"/>
+    <path d="M975 243l9-4v14l-9 4z" fill="#e9dfb1" stroke="#27232c" stroke-width="2"/>
+    <path d="M1044 221l23-11 24 12-24 12z" fill="url(#land)"/>
+    <path d="M1044 221v22l23 12v-21z" fill="#8e9b70"/>
+    <path d="M1067 234l24-12v22l-24 11z" fill="#b2bd8b"/>
+    <path d="M1066 217v-42h-13v-15h-12v-17h13v14h12v-23h14v35h13v14h-14v34z" fill="#b3cf8c"/>
+    <path d="M1066 179h13v38h-13zM1041 143h13v8h-13zM1080 169h13v7h-13z" fill="#779b68"/>
+  </g>
+  <g fill="#c19ae9">
+    <path d="M853 169h7v7h-7zM1099 134h6v6h-6zM1004 118h5v5h-5zM1149 302h5v5h-5z"/>
+    <path d="M877 130h4v4h-4zM1111 193h4v4h-4z" opacity=".6"/>
+  </g>
+</svg>

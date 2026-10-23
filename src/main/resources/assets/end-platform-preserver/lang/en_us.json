@@ -1,0 +1,4 @@
+{
+  "end-platform-preserver.enabled": "Preserve End platform blocks",
+  "gamerule.end-platform-preserver.enabled": "Preserves blocks above the End arrival platform while allowing its obsidian floor to regenerate."
+}

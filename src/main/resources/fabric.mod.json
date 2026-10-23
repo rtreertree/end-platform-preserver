@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "end-platform-preserver",
+  "version": "${version}",
+  "name": "End Platform Preserver",
+  "description": "Preserves blocks above the End arrival platform when players or other entities enter an End portal, while retaining obsidian floor regeneration.",
+  "license": "MIT",
+  "environment": "*",
+  "mixins": ["end-platform-preserver.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25"
+  }
+}

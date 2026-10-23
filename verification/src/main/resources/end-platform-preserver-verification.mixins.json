@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "minVersion": "0.8.7",
+  "package": "net.rtree.endplatformpreserver.verification.mixin",
+  "client": ["VerificationMainMixin"],
+  "server": ["VerificationServerMainMixin"],
+  "injectors": { "defaultRequire": 1 }
+}

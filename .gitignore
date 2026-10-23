@@ -1,0 +1,14 @@
+.gradle/
+.gradle-user-home/
+.tools/
+build/
+run/
+verification/run/
+verification/classes/
+verification/build/
+verification/run-control/
+verification/run-server/
+verification/run-server-control/
+fabric-loader-versions.json
+minecraft-versions.json
+*.log

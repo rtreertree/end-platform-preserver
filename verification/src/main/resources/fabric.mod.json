@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "end-platform-preserver-verification",
+  "version": "1.0.0",
+  "name": "End Platform Preserver Verification (TEST ONLY)",
+  "environment": "*",
+  "mixins": ["end-platform-preserver-verification.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "26.3",
+    "java": ">=25",
+    "end-platform-preserver": "*"
+  }
+}
